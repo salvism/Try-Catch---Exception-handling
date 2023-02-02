@@ -1,0 +1,14 @@
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework11\Homework11\bin\Debug\netcoreapp3.1\Homework11.exe
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework11\Homework11\bin\Debug\netcoreapp3.1\Homework11.deps.json
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework11\Homework11\bin\Debug\netcoreapp3.1\Homework11.runtimeconfig.json
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework11\Homework11\bin\Debug\netcoreapp3.1\Homework11.runtimeconfig.dev.json
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework11\Homework11\bin\Debug\netcoreapp3.1\Homework11.dll
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework11\Homework11\bin\Debug\netcoreapp3.1\Homework11.pdb
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework11\Homework11\obj\Debug\netcoreapp3.1\Homework11.csproj.AssemblyReference.cache
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework11\Homework11\obj\Debug\netcoreapp3.1\Homework11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework11\Homework11\obj\Debug\netcoreapp3.1\Homework11.AssemblyInfoInputs.cache
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework11\Homework11\obj\Debug\netcoreapp3.1\Homework11.AssemblyInfo.cs
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework11\Homework11\obj\Debug\netcoreapp3.1\Homework11.csproj.CoreCompileInputs.cache
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework11\Homework11\obj\Debug\netcoreapp3.1\Homework11.dll
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework11\Homework11\obj\Debug\netcoreapp3.1\Homework11.pdb
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework11\Homework11\obj\Debug\netcoreapp3.1\Homework11.genruntimeconfig.cache
